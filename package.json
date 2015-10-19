@@ -1,0 +1,8 @@
+{
+  "name": "newrank-token",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "request": "^2.65.0"
+  }
+}
